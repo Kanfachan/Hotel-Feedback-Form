@@ -36,7 +36,7 @@ The purpose of this project is to deepen developer understanding of HTML by crea
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/Hotel-Feedback-Form/
 
 ## GitHub Repository Location (HTTPS)
 
